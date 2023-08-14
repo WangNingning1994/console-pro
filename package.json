@@ -1,0 +1,17 @@
+{
+  "name": "console-pro",
+  "version": "1.0.0",
+  "description": "Make you console more powerful, attractive...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "console-pro",
+    "debug",
+    "funny",
+    "productive"
+  ],
+  "author": "WangNingning",
+  "license": "ISC"
+}
